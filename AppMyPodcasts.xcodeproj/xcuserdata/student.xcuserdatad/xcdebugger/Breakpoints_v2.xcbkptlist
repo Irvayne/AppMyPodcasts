@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppMyPodcasts/Podcast.swift"
+            timestampString = "514996027.963829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "lista"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_51346E93B17ED15D14D5C367065D81D8_func0"
+                  moduleName = "AppMyPodcasts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/AppMyPodcasts/AppMyPodcasts/Podcast.swift"
+                  timestampString = "514995425.97184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AppMyPodcasts.PodcastDAO.lista.getter : Swift.Array&lt;AppMyPodcasts.Podcast&gt;"
+                  moduleName = "AppMyPodcasts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/AppMyPodcasts/AppMyPodcasts/Podcast.swift"
+                  timestampString = "514995425.977037"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AppMyPodcasts.PodcastDAO.lista.setter : Swift.Array&lt;AppMyPodcasts.Podcast&gt;"
+                  moduleName = "AppMyPodcasts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/Irvayne%20Matheus%20-%20Turma%20Manha/AppMyPodcasts/AppMyPodcasts/Podcast.swift"
+                  timestampString = "514995425.9798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
